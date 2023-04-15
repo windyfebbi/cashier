@@ -1,2 +1,2 @@
-# cashier
-Self-service program
+# Self-Service Cashier Program
+
