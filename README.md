@@ -1,4 +1,4 @@
-# Self-Service Cashier Program
+# OOP Python: Self-Service Cashier Program
 # Background
 This is a simple self-service cashier program for make purchasing transactions, including add items, edit (update) items, delete items, reset transaction, check order, checkout, until payment activities. All of data items are input (type) by customer. For every transactions there will be a discount with applicable terms and conditions. Customer can also choose their preference payment method in last step of the program
 # Requirements
